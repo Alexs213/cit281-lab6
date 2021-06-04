@@ -18,4 +18,5 @@ Part 6: Add at least two more books to the library
 
 Part 7: Add ISBN and a delete book method
 
+Here is a image of what we worked on this week.
 ![lab6](lab6.png)
